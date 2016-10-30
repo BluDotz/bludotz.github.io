@@ -22,19 +22,9 @@
 					"toolsDependencies": 
 						[
 							{
-								"packager": "RedBearLab",
+								"packager": "BluDotz",
 								"name": "arm-none-eabi-gcc",
 								"version": "4.8.3-2014q1"
-							},
-							{
-								"packager": "RedBearLab",
-								"name": "bossac",
-								"version": "1.3a-arduino"
-							},
-							{
-								"packager":"arduino",
-								"name":"avrdude",
-								"version":"6.0.1-arduino5"
 							}
 						]
 				}
@@ -52,20 +42,6 @@
 								"archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
 								"checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
 								"size": "52518522"
-							}
-						]
-				},
-				{
-					"name": "bossac",
-					"version": "1.3a-arduino",
-					"systems": 
-						[
-							{
-								"host": "i386-apple-darwin11",
-								"url": "http://downloads.arduino.cc/tools/bossac-1.3a-arduino-i386-apple-darwin11.tar.bz2",
-								"archiveFileName": "bossac-1.3a-arduino-i386-apple-darwin11.tar.bz2",
-								"checksum": "SHA-256:40770b225753e7a52bb165e8f37e6b760364f5c5e96048168d0178945bd96ad6",
-								"size": "39475"
 							}
 						]
 				}
