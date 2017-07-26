@@ -1,0 +1,344 @@
+{
+  "packages": [
+    {
+      "maintainer": "Digilent",
+      "help": {
+        "online": "https://reference.digilentinc.com/doku.php"
+      },
+      "websiteURL": "https://www.digilentinc.com",
+      "platforms": [
+        {
+          "name": "Digilent Core",
+          "architecture": "pic32",
+          "version": "1.0.0",
+          "category": "pic32",
+          "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/1.0.0/Digilent-core.master-v1.0.0.zip",
+          "archiveFileName": "Digilent-core.master-v1.0.0.zip",
+          "checksum": "SHA-256:2703be01318d37dce393ebf3d307e563770179f757271b774d4468628148e5dd",
+          "size": "7499657",
+          "help": {
+            "online": "https://reference.digilentinc.com/doku.php"
+          },
+          "boards": [
+            {"name": "BasysMX3"},
+			{"name": "Cerebot32mx4"},
+            {"name": "Cerebot32mx7"},
+            {"name": "Cerebot_mx3ck"},
+            {"name": "Chipkit_mx3"},
+            {"name": "Cerebot_mx4ck"},
+            {"name": "Chipkit_pro_mx4"},
+            {"name": "Cerebot_mx7ck"},
+            {"name": "Chipkit_pro_mx7"},
+            {"name": "Cmod"},
+            {"name": "Chipkit_DP32"},
+            {"name": "Max32"},
+            {"name": "Chipkit_uc32"},
+            {"name": "UC32_pmod"},
+            {"name": "Uno_pic32"},
+            {"name": "Uno_pmod"},
+            {"name": "Chipkit_WF32"},
+            {"name": "Chipkit_WiFire"},
+            {"name": "OpenScope"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Digilent",
+              "version": "xc32-1.43",
+              "name": "xc32-tools"
+            }, 
+            {
+              "packager": "Digilent",
+              "version": "v1.000-digilent",
+              "name": "DigilentPGM"
+            },
+            {
+              "packager": "Digilent",
+              "version": "v2",
+              "name": "drivers-windows"
+            }
+          ]
+        },
+		{
+          "name": "Digilent Core",
+          "architecture": "pic32",
+          "version": "1.0.1",
+          "category": "pic32",
+          "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/1.0.1/Digilent-core.master-v1.0.1.zip",
+          "archiveFileName": "Digilent-core.master-v1.0.1.zip",
+          "checksum": "SHA-256:60235d1dca8c55007ff00c91dc14d29e9a7e090cbc0aae37faa0e07b40ee252d",
+          "size": "7497482",
+          "help": {
+            "online": "https://reference.digilentinc.com/doku.php"
+          },
+          "boards": [
+            {"name": "BasysMX3"},
+			{"name": "Cerebot32mx4"},
+            {"name": "Cerebot32mx7"},
+            {"name": "Cerebot_mx3ck"},
+            {"name": "Chipkit_mx3"},
+            {"name": "Cerebot_mx4ck"},
+            {"name": "Chipkit_pro_mx4"},
+            {"name": "Cerebot_mx7ck"},
+            {"name": "Chipkit_pro_mx7"},
+            {"name": "Cmod"},
+            {"name": "Chipkit_DP32"},
+            {"name": "Max32"},
+            {"name": "Chipkit_uc32"},
+            {"name": "UC32_pmod"},
+            {"name": "Uno_pic32"},
+            {"name": "Uno_pmod"},
+            {"name": "Chipkit_WF32"},
+            {"name": "Chipkit_WiFire"},
+            {"name": "OpenScope"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Digilent",
+              "version": "xc32-1.43",
+              "name": "xc32-tools"
+            }, 
+            {
+              "packager": "Digilent",
+              "version": "v1.000-digilent",
+              "name": "DigilentPGM"
+            },
+            {
+              "packager": "Digilent",
+              "version": "v2",
+              "name": "drivers-windows"
+            }
+          ]
+        },
+		{
+          "name": "Digilent Core",
+          "architecture": "pic32",
+          "version": "1.0.2",
+          "category": "pic32",
+          "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/1.0.2/Digilent-core.master-v1.0.2.zip",
+          "archiveFileName": "Digilent-core.master-v1.0.2.zip",
+          "checksum": "SHA-256:bf3bbe529b04c1fd54ba4132370d91ec217bf1ebc1e975ac6c28712b5c26dc44",
+          "size": "7498695",
+          "help": {
+            "online": "https://reference.digilentinc.com/doku.php"
+          },
+          "boards": [
+            {"name": "BasysMX3"},
+			{"name": "Cerebot32mx4"},
+            {"name": "Cerebot32mx7"},
+            {"name": "Cerebot_mx3ck"},
+            {"name": "Chipkit_mx3"},
+            {"name": "Cerebot_mx4ck"},
+            {"name": "Chipkit_pro_mx4"},
+            {"name": "Cerebot_mx7ck"},
+            {"name": "Chipkit_pro_mx7"},
+            {"name": "Cmod"},
+            {"name": "Chipkit_DP32"},
+            {"name": "Max32"},
+            {"name": "Chipkit_uc32"},
+            {"name": "UC32_pmod"},
+            {"name": "Uno_pic32"},
+            {"name": "Uno_pmod"},
+            {"name": "Chipkit_WF32"},
+            {"name": "Chipkit_WiFire"},
+            {"name": "OpenScope"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Digilent",
+              "version": "xc32-1.43",
+              "name": "xc32-tools"
+            }, 
+            {
+              "packager": "Digilent",
+              "version": "v1.000-digilent",
+              "name": "DigilentPGM"
+            },
+            {
+              "packager": "Digilent",
+              "version": "v2",
+              "name": "drivers-windows"
+            }
+          ]
+        },
+		{
+          "name": "Digilent Core",
+          "architecture": "pic32",
+          "version": "1.0.3",
+          "category": "pic32",
+          "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/1.0.3/Digilent-core.master-v1.0.3.zip",
+          "archiveFileName": "Digilent-core.master-v1.0.3.zip",
+          "checksum": "SHA-256:112721afcbd0c0bfe2c7452c32f2f9fd53c92276e31a907b2ce18ec9120ff1da",
+          "size": "7524830",
+          "help": {
+            "online": "https://reference.digilentinc.com/doku.php"
+          },
+          "boards": [
+            {"name": "BasysMX3"},
+			{"name": "Cerebot32mx4"},
+            {"name": "Cerebot32mx7"},
+            {"name": "Cerebot_mx3ck"},
+            {"name": "Chipkit_mx3"},
+            {"name": "Cerebot_mx4ck"},
+            {"name": "Chipkit_pro_mx4"},
+            {"name": "Cerebot_mx7ck"},
+            {"name": "Chipkit_pro_mx7"},
+            {"name": "Cmod"},
+            {"name": "Chipkit_DP32"},
+            {"name": "Max32"},
+            {"name": "Chipkit_uc32"},
+            {"name": "UC32_pmod"},
+            {"name": "Uno_pic32"},
+            {"name": "Uno_pmod"},
+            {"name": "Chipkit_WF32"},
+            {"name": "Chipkit_WiFire"},
+            {"name": "OpenScope"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Digilent",
+              "version": "xc32-1.43",
+              "name": "xc32-tools"
+            }, 
+            {
+              "packager": "Digilent",
+              "version": "v1.000-digilent",
+              "name": "DigilentPGM"
+            },
+            {
+              "packager": "Digilent",
+              "version": "v2",
+              "name": "drivers-windows"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "version": "xc32-1.43",
+          "name": "xc32-tools",
+          "systems": [
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/xc32-tools/1.43/xc32-tools-Digilent-master-win.zip",
+              "checksum": "SHA-256:767d84ff9629ca7639a0f8e4271a119aecda736b9b7094a706b53d7b46fe786e",
+              "host": "i686-mingw32",
+              "archiveFileName": "xc32-tools-Digilent-master-win.zip",
+              "size": "353930473"
+            },
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/xc32-tools/1.43/xc32-tools-Digilent-master-mac.tar.gz",
+              "checksum": "SHA-256:59e17eec081acf609e6a5ad93646fa449bd88f8a2f2060745fc24eb258ade20d",
+              "host": "i386-apple-darwin",
+              "archiveFileName": "xc32-tools-Digilent-master-mac.tar.gz",
+              "size": "342984971"
+            }, 
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/xc32-tools/1.43/xc32-tools-Digilent-master-linux.tar.gz",
+              "checksum": "SHA-256:9d34e07e64dde32487906b1817d5f5d260a089e3d40329e54f8cb130dd7fea18",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "xc32-tools-Digilent-master-linux.tar.gz",
+              "size": "342109219"
+            }, 
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/xc32-tools/1.43/xc32-tools-Digilent-master-linux.tar.gz",
+              "checksum": "SHA-256:9d34e07e64dde32487906b1817d5f5d260a089e3d40329e54f8cb130dd7fea18",
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "xc32-tools-Digilent-master-linux.tar.gz",
+              "size": "342109219"
+            }, 
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/xc32-tools/1.43/xc32-tools-Digilent-master-linux.tar.gz",
+              "checksum": "SHA-256:9d34e07e64dde32487906b1817d5f5d260a089e3d40329e54f8cb130dd7fea18",
+              "host": "i686-arm-gnu",
+              "archiveFileName": "xc32-tools-Digilent-master-linux.tar.gz",
+              "size": "342109219"
+            }
+          ]
+        },
+		{
+          "version": "v1.000-digilent",
+          "name": "DigilentPGM",
+          "systems": [
+            {
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/DigilentPGM/1.000/DigilentPGM-v1.000-jar-win.zip",
+              "checksum": "SHA-256:9adec689ea018192b560ab823a7940bfd1a839d1328743d7c9b29b161a7d5652",
+              "host": "i686-mingw32",
+              "archiveFileName": "DigilentPGM-v1.000-jar-win.zip",
+              "size": "63203118"
+            },
+			{
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/DigilentPGM/1.000/DigilentPGM-v1.000-jar-mac.tar.gz",
+              "checksum": "SHA-256:1dbb17f111eb46536c366f97298585c765a4fbb819a6f7c3c1dfcfb23188069e",
+              "host": "i386-apple-darwin",
+              "archiveFileName": "DigilentPGM-v1.000-jar-mac.tar.gz",
+              "size": "62053900"
+            },
+			{
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/DigilentPGM/1.000/DigilentPGM-v1.000-jar-linux.tar.gz",
+              "checksum": "SHA-256:35c6c53e02314aa27ae2a0971d8c66964345370e0a44b9057deeaf38610521a2",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "DigilentPGM-v1.000-jar-linux.tar.gz",
+              "size": "73686551"
+            },
+			{
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/DigilentPGM/1.000/DigilentPGM-v1.000-jar-linux.tar.gz",
+              "checksum": "SHA-256:35c6c53e02314aa27ae2a0971d8c66964345370e0a44b9057deeaf38610521a2",
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "DigilentPGM-v1.000-jar-linux.tar.gz",
+              "size": "73686551"
+            },
+			{
+              "url": "https://s3-us-west-2.amazonaws.com/digilent/Software/Digilent_Core/DigilentPGM/1.000/DigilentPGM-v1.000-jar-linux.tar.gz",
+              "checksum": "SHA-256:35c6c53e02314aa27ae2a0971d8c66964345370e0a44b9057deeaf38610521a2",
+              "host": "i686-arm-gnu",
+              "archiveFileName": "DigilentPGM-v1.000-jar-linux.tar.gz",
+              "size": "73686551"
+            }
+          ]
+        },
+		{
+          "name": "drivers-windows",
+          "version": "v2",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/chipKIT32/chipKIT-drivers/releases/download/v2.0/chipKIT_USB_drivers_windows_v2.zip",
+              "archiveFileName": "chipKIT_USB_drivers_windows_v2.zip",
+              "size": "962019",
+              "checksum": "SHA-256:39F16651C21F451D106B8CDA5281D16129D755A73728E976A725341F3F671A5F"
+            },
+            {
+              "host": "i386-apple-darwin11",
+              "url": "https://github.com/chipKIT32/chipKIT-drivers/releases/download/v2.0/chipKIT_USB_drivers_otherOSes_v2.zip",
+              "archiveFileName": "chipKIT_USB_drivers_otherOSes_v2.zip",
+              "size": "162",
+              "checksum": "SHA-256:83320249BEAF1BD023A7E42DA0A8717421681B62F070331DF6084048F8D763F8"
+            }, 
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://github.com/chipKIT32/chipKIT-drivers/releases/download/v2.0/chipKIT_USB_drivers_otherOSes_v2.zip",
+              "archiveFileName": "chipKIT_USB_drivers_otherOSes_v2.zip",
+              "size": "162",
+              "checksum": "SHA-256:83320249BEAF1BD023A7E42DA0A8717421681B62F070331DF6084048F8D763F8"
+            }, 
+            {
+              "host": "i686-pc-linux-gnu", 
+              "url": "https://github.com/chipKIT32/chipKIT-drivers/releases/download/v2.0/chipKIT_USB_drivers_otherOSes_v2.zip",
+              "archiveFileName": "chipKIT_USB_drivers_otherOSes_v2.zip",
+              "size": "162",
+              "checksum": "SHA-256:83320249BEAF1BD023A7E42DA0A8717421681B62F070331DF6084048F8D763F8"
+            }, 
+            {
+              "host": "i686-arm-gnu",
+              "url": "https://github.com/chipKIT32/chipKIT-drivers/releases/download/v2.0/chipKIT_USB_drivers_otherOSes_v2.zip",
+              "archiveFileName": "chipKIT_USB_drivers_otherOSes_v2.zip",
+              "size": "162",
+              "checksum": "SHA-256:83320249BEAF1BD023A7E42DA0A8717421681B62F070331DF6084048F8D763F8"
+            }
+          ]
+        }
+      ],
+      "email": "packages@digilentinc.com",
+      "name": "Digilent"
+    }
+  ]
+}
